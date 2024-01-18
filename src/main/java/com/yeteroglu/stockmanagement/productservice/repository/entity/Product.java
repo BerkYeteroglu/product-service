@@ -1,4 +1,4 @@
-package com.yeteroglu.stockmanagement.productservice.request.entity;
+package com.yeteroglu.stockmanagement.productservice.repository.entity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;

@@ -1,5 +1,6 @@
-package com.yeteroglu.stockmanagement.productservice.request.entity;
+package com.yeteroglu.stockmanagement.productservice.repository;
 
+import com.yeteroglu.stockmanagement.productservice.repository.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
